@@ -1,0 +1,16 @@
+.digital__clock > h1{
+  text-align: center;
+}
+
+.clock{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 60px;
+}
+
+.time{
+  color: aqua;
+  font-size: 40px;
+}
